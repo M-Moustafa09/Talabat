@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Level 4\\Advanced Agorithm\\Tasks\\Talabat\\Talabat.Repository\\Talabat.Repository.csproj": {}
+  },
+  "projects": {
+    "D:\\Level 4\\Advanced Agorithm\\Tasks\\Talabat\\Talabat.Repository\\Talabat.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Level 4\\Advanced Agorithm\\Tasks\\Talabat\\Talabat.Repository\\Talabat.Repository.csproj",
+        "projectName": "Talabat.Repository",
+        "projectPath": "D:\\Level 4\\Advanced Agorithm\\Tasks\\Talabat\\Talabat.Repository\\Talabat.Repository.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud Mostafa\\.nuget\\packages\\",
+        "outputPath": "D:\\Level 4\\Advanced Agorithm\\Tasks\\Talabat\\Talabat.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud Mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Level 4\\Advanced Agorithm\\Tasks\\Talabat\\Talapat.Core\\Talapat.Core.csproj": {
+                "projectPath": "D:\\Level 4\\Advanced Agorithm\\Tasks\\Talabat\\Talapat.Core\\Talapat.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Level 4\\Advanced Agorithm\\Tasks\\Talabat\\Talapat.Core\\Talapat.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Level 4\\Advanced Agorithm\\Tasks\\Talabat\\Talapat.Core\\Talapat.Core.csproj",
+        "projectName": "Talapat.Core",
+        "projectPath": "D:\\Level 4\\Advanced Agorithm\\Tasks\\Talabat\\Talapat.Core\\Talapat.Core.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud Mostafa\\.nuget\\packages\\",
+        "outputPath": "D:\\Level 4\\Advanced Agorithm\\Tasks\\Talabat\\Talapat.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud Mostafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

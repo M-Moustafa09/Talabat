@@ -1,0 +1,15 @@
+D:\.net\Projects\Store.solution\Stor.Servics\bin\Debug\net6.0\Stor.Servics.deps.json
+D:\.net\Projects\Store.solution\Stor.Servics\bin\Debug\net6.0\Stor.Servics.dll
+D:\.net\Projects\Store.solution\Stor.Servics\bin\Debug\net6.0\Stor.Servics.pdb
+D:\.net\Projects\Store.solution\Stor.Servics\obj\Debug\net6.0\Stor.Servics.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Projects\Store.solution\Stor.Servics\obj\Debug\net6.0\Stor.Servics.AssemblyInfoInputs.cache
+D:\.net\Projects\Store.solution\Stor.Servics\obj\Debug\net6.0\Stor.Servics.AssemblyInfo.cs
+D:\.net\Projects\Store.solution\Stor.Servics\obj\Debug\net6.0\Stor.Servics.csproj.CoreCompileInputs.cache
+D:\.net\Projects\Store.solution\Stor.Servics\obj\Debug\net6.0\Stor.Servics.dll
+D:\.net\Projects\Store.solution\Stor.Servics\obj\Debug\net6.0\refint\Stor.Servics.dll
+D:\.net\Projects\Store.solution\Stor.Servics\obj\Debug\net6.0\Stor.Servics.pdb
+D:\.net\Projects\Store.solution\Stor.Servics\obj\Debug\net6.0\ref\Stor.Servics.dll
+D:\.net\Projects\Store.solution\Stor.Servics\bin\Debug\net6.0\Store.Core.dll
+D:\.net\Projects\Store.solution\Stor.Servics\bin\Debug\net6.0\Store.Core.pdb
+D:\.net\Projects\Store.solution\Stor.Servics\obj\Debug\net6.0\Stor.Servics.csproj.AssemblyReference.cache
+D:\.net\Projects\Store.solution\Stor.Servics\obj\Debug\net6.0\Stor.Servics.csproj.CopyComplete

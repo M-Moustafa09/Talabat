@@ -1,0 +1,15 @@
+D:\.net\Projects\Store.solution\Stor.Reposiotry\bin\Debug\net6.0\Stor.Reposiotry.deps.json
+D:\.net\Projects\Store.solution\Stor.Reposiotry\bin\Debug\net6.0\Stor.Reposiotry.dll
+D:\.net\Projects\Store.solution\Stor.Reposiotry\bin\Debug\net6.0\Stor.Reposiotry.pdb
+D:\.net\Projects\Store.solution\Stor.Reposiotry\bin\Debug\net6.0\Store.Core.dll
+D:\.net\Projects\Store.solution\Stor.Reposiotry\bin\Debug\net6.0\Store.Core.pdb
+D:\.net\Projects\Store.solution\Stor.Reposiotry\obj\Debug\net6.0\Stor.Reposiotry.csproj.AssemblyReference.cache
+D:\.net\Projects\Store.solution\Stor.Reposiotry\obj\Debug\net6.0\Stor.Reposiotry.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Projects\Store.solution\Stor.Reposiotry\obj\Debug\net6.0\Stor.Reposiotry.AssemblyInfoInputs.cache
+D:\.net\Projects\Store.solution\Stor.Reposiotry\obj\Debug\net6.0\Stor.Reposiotry.AssemblyInfo.cs
+D:\.net\Projects\Store.solution\Stor.Reposiotry\obj\Debug\net6.0\Stor.Reposiotry.csproj.CoreCompileInputs.cache
+D:\.net\Projects\Store.solution\Stor.Reposiotry\obj\Debug\net6.0\Stor.Reposiotry.csproj.CopyComplete
+D:\.net\Projects\Store.solution\Stor.Reposiotry\obj\Debug\net6.0\Stor.Reposiotry.dll
+D:\.net\Projects\Store.solution\Stor.Reposiotry\obj\Debug\net6.0\refint\Stor.Reposiotry.dll
+D:\.net\Projects\Store.solution\Stor.Reposiotry\obj\Debug\net6.0\Stor.Reposiotry.pdb
+D:\.net\Projects\Store.solution\Stor.Reposiotry\obj\Debug\net6.0\ref\Stor.Reposiotry.dll
